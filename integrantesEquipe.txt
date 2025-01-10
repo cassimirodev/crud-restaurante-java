@@ -1,0 +1,10 @@
+Projeto desenvolvido pela equipe: Fred William Melo Brooman,  
+                                  João Mateus de Melo Farias, 
+                                  João Vitor Coutinho da Silva, 
+                                  Luís Eduardo Cassimiro da Silva e 
+                                  Yálex Guilherme Lolaia da Silva.
+
+
+OBS* Tinhamos pretendido criar mais funções como pedido, pagamento e etc porém tivemos diversos erros com a conexão com o banco de dados, então reduzimos o projeto pra ficar mais simples porém funcional.
+
+Utilizandos o PostgresSQL pois o SQLServer não quis funcionar de nenhuma maneira.
